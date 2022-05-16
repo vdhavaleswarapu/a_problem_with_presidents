@@ -11,7 +11,7 @@ Date math and basic exploratory data analysis using descriptive statistics are a
 
 Using the given data and Python or R; add new variables called year_of_birth, lived_years, lived_months, lived_days then make two well formatted output tables ranking the top 10 Presidents from longest lived to shortest lived and then the top 10 presidents from shortest lived to longest lived.
 
-Then using your newly created data calculate the mean, weighted mean, median, mode, max, min and standard deviation of lived_days for your data set. Output these measures in a well formatted table. Then, make a plot of a type that you think best shows the distribution of this data.
+Then using your newly created data calculate the mean, weighted average, median, mode, max, min and standard deviation of lived_days for your data set. Output these measures in a well formatted table. Then, make a plot of a type that you think best shows the distribution of this data.
 
 Assemble your tables and plot into a single report with a title, author and date. Start the report with a 3 or 4 sentence summary of what you found, the body should have your tables and plot and any commentary about your methods or assumptions you think the reader would need to know. Finish the report with a conclusions section, where you state the conclusions you reached through this analysis.
 
